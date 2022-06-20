@@ -7,6 +7,8 @@ public class MainClass {
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
+		System.out.println("Hello Git");
+		System.out.println("Hello Git");
 
 	}
 
